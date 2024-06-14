@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hello,I'm <a href="https://github.com/visci89">Alessandro 🖖<a></h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/visci89">Alessandro 🖖<a></h1>
 
 
 - 👨🏻‍💻 I am Angular Developer | Flutter | Django | JS | Python | Ngrx | Rxjs
