@@ -3,7 +3,7 @@
 
 
 - 👨🏻‍💻 I am Angular Developer | Flutter | Django | JS | Python | Ngrx | Rxjs
-- 🏢 I currently work as a *backend developer* in a startup.
+- 🏢 I currently work as a *Full Stack Developer* in a startup.
 <h3 align="left">Languages and Tools: 💻</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
