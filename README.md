@@ -15,8 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenicovichi&layout=compact&theme=tokyonight&exclude_repo=Netbooks)](https://github.com/anuraghazra/github-readme-stats)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
